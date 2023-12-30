@@ -29,5 +29,5 @@
 
 In summary, the BookMyShow Backend project provides a solid infrastructure for efficient event ticket booking and user management. With its user-friendly installation process, well-documented API, and open invitation for contributions, the project aims to foster collaboration and innovation in the realm of event management. We welcome developers to explore, contribute, and leverage the system's capabilities to enhance event experiences for both organizers and attendees. Thank you for your interest in BookMyShow Backend!
 
-   ##Contributing
+   ## Contributing
     1. Chaitanya Naik
