@@ -24,3 +24,6 @@
 
    ##Link
    https://bookmyshowchaitanyanaikalmabetter.netlify.app/
+
+   ##Contributing
+   ### 1. Chaitanya Naik
